@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Capacité a prendre en charge la création d'espace de ventes"
-datePublished: '2016-02-01T21:29:50.632Z'
+datePublished: '2016-02-01T21:29:50.645Z'
 dateModified: '2016-02-01T21:29:44.529Z'
 title: Habillage de vitrine
 author: []
