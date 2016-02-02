@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[studiop4]]></title>
-        <description><![CDATA[studiop4]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Création Graphique au cœur du Périgord Noir]]></title>
+        <description><![CDATA[Création Graphique au cœur du Périgord Noir]]></description>
+        <link>https://thegrid.ai/studiop4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 08:56:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 09:01:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studiop4/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3680ad86-0887-4bb8-a645-dbcef1401f79.jpg">]]></description>
+            <link>https://thegrid.ai/studiop4/fd8981aa-5e79-476c-aca9-a7d6b605a68d/index.html</link>
+            <guid isPermaLink="false">fd8981aa-5e79-476c-aca9-a7d6b605a68d</guid>
+            <pubDate>Tue, 02 Feb 2016 08:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Habillage de vitrine]]></title>
             <description><![CDATA[<article><h1>Habillage de vitrine</h1><p>bienvenue</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a7375bcc5c59c0ff4df54fd6e31a0ad5a978259.jpg"></article>]]></description>
-            <link>undefinedhabillage-de-vitrine/index.html</link>
+            <link>https://thegrid.ai/studiop4/habillage-de-vitrine/index.html</link>
             <guid isPermaLink="false">a15c1be7-a7d2-4b73-a7ce-d5d615ff9d56</guid>
             <pubDate>Tue, 02 Feb 2016 08:53:25 GMT</pubDate>
         </item>
