@@ -1,7 +1,7 @@
 name: studiop4
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74553
+layout_spectrum: 0.74428
+typography_spectrum: 0.92683
 title: Création Graphique au cœur du Périgord Noir
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
