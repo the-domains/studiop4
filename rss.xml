@@ -4,11 +4,18 @@
         <description><![CDATA[Création Graphique au cœur du Périgord Noir]]></description>
         <link>https://thegrid.ai/studiop4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 07:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:46:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studiop4/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Daniel L'Homond]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/577e3b41-eef1-429c-8f7e-da6e7b41a68e.jpg">]]></description>
+            <link>https://thegrid.ai/studiop4/daniel-lhomond/index.html</link>
+            <guid isPermaLink="false">0b22adb4-fb18-4ae0-a14a-ae4b0f08c5ff</guid>
+            <pubDate>Fri, 06 May 2016 16:46:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Accompagnements & réalisations Internet]]></title>
-            <description><![CDATA[<article><h1>Accompagnements & réalisations Internet</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/657b373c-c616-42a0-9eae-48da242e981d.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Accompagnements & réalisations Internet</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69a74630921c312adb6dba011bccb479edc94176.png"></article>]]></description>
             <link>https://thegrid.ai/studiop4/accompagnements-and-realisations-internet/index.html</link>
             <guid isPermaLink="false">599411f0-c24b-46a2-ab9c-7da3a8ef8661</guid>
             <pubDate>Thu, 18 Feb 2016 07:22:35 GMT</pubDate>
@@ -21,11 +28,11 @@
             <pubDate>Thu, 18 Feb 2016 06:56:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daniel L'Homond]]></title>
-            <description><![CDATA[<article><h1>Daniel L'Homond</h1><p>Création graphique d'affiches de spectacles</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f00621a0c84f2e871130629e3683f259a7ba2809.jpg"></article>]]></description>
-            <link>https://thegrid.ai/studiop4/daniel-lhomond/index.html</link>
-            <guid isPermaLink="false">0b22adb4-fb18-4ae0-a14a-ae4b0f08c5ff</guid>
-            <pubDate>Tue, 02 Feb 2016 16:00:05 GMT</pubDate>
+            <title><![CDATA[Habillage de vitrine]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b8391d-38f3-442b-8cad-dcb763bedd42.jpg">]]></description>
+            <link>https://thegrid.ai/studiop4/habillage-de-vitrine/index.html</link>
+            <guid isPermaLink="false">a15c1be7-a7d2-4b73-a7ce-d5d615ff9d56</guid>
+            <pubDate>Tue, 02 Feb 2016 16:04:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/studiop4/fd8981aa-5e79-476c-aca9-a7d6b605a68d/index.html</link>
             <guid isPermaLink="false">fd8981aa-5e79-476c-aca9-a7d6b605a68d</guid>
             <pubDate>Tue, 02 Feb 2016 08:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Habillage de vitrine]]></title>
-            <description><![CDATA[<article><h1>Habillage de vitrine</h1><p>bienvenue</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd45bfa38c56bd04c9f4ecd204b8cf6d84812317.jpg"></article>]]></description>
-            <link>https://thegrid.ai/studiop4/habillage-de-vitrine/index.html</link>
-            <guid isPermaLink="false">a15c1be7-a7d2-4b73-a7ce-d5d615ff9d56</guid>
-            <pubDate>Tue, 02 Feb 2016 16:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
