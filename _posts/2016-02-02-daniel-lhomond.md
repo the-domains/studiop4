@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "soutien a la diffusion du spectacle de Daniel L'homond dans le cadre du festival du Lébérou 2015."
-datePublished: '2016-02-02T16:00:05.107Z'
-dateModified: '2016-02-02T15:59:54.230Z'
-title: "Daniel L'Homond"
+description: "Création graphique d'affiches de spectacles"
+datePublished: '2016-05-06T16:46:14.518Z'
+dateModified: '2016-05-06T16:46:13.503Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-02-daniel-lhomond.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: true
 url: daniel-lhomond/index.html
 _type: Article
 
